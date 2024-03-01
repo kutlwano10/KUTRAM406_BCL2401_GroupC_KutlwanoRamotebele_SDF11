@@ -1,6 +1,12 @@
 
 # Learning Reflections README 
 
+# Presentation Link
+https://www.loom.com/share/d2135098b0434b2bb5595e73521764c9?sid=8f1e7998-457c-4fbc-a128-f6245cd32ac8
+
+# Presentation Slides
+https://docs.google.com/presentation/d/17rgtMOng1ZuTZInBVYEW97kSDlS4kE0C1zEjSFmBNtg/edit?usp=sharing
+
 ## **Cache Bank Portfolio Profile**
 
 ### Overview
